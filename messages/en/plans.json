@@ -1,0 +1,172 @@
+{
+  "freemium": {
+    "tierTitle": "Freemium Tier",
+    "price": "Free",
+    "startButton": "Start now!",
+    "heading": "Resources",
+    "title": "Freemium Tier",
+    "description": "Design assets, icon analysis, and a community of icon designers where you can ask questions, get feedback, and accelerate your learning.",
+    "playButton": "Play",
+    "table": {
+      "feature": "Feature",
+      "included": "Included",
+      "features": [
+        "A 14-day trial period",
+        "1 license per user",
+        "10,000 requests during the 14-day period",
+        "Up to 3 active networks",
+        "Limited mode Copilot",
+        "Guided examples library (Quickstart templates)",
+        "Access to exclusive Discord community",
+        "Credit card not required",
+        "Basic updates"
+      ]
+    },
+    "resources": [
+      {
+        "title": "Icon templates for Figma",
+        "description": "Perfectly structured templates to quickly design new icons in dozens of common sizes.",
+        "video": "https://www.youtube.com/embed/your-video-id-1"
+      },
+      {
+        "title": "Weekly icon analysis",
+        "description": "Weekly videos where we break down and recreate beautiful icons we find on the web.",
+        "video": "https://www.youtube.com/embed/your-video-id-2"
+      },
+      {
+        "title": "Icon designer community",
+        "description": "A private Discord server where you can get help and give feedback on others' work.",
+        "video": "https://www.youtube.com/embed/your-video-id-3"
+      }
+    ]
+  },
+  "developer": {
+    "tierTitle": "Developer Tier",
+    "price": "$19/month",
+    "startButton": "Start now!",
+    "heading": "Resources",
+    "title": "Developer Tier",
+    "description": "Design assets, icon analysis, and a community of icon designers where you can ask questions, get feedback, and accelerate your learning.",
+    "playButton": "Play",
+    "table": {
+      "feature": "Feature",
+      "included": "Included",
+      "features": [
+        "A 20-day trial period",
+        "1 active key",
+        "25,000 requests per month",
+        "Up to 10 active networks",
+        "Copilot (without generative AI)",
+        "Community support + private feedback channel",
+        "Access to 5 customizable templates",
+        "Export projects in .tdp format",
+        "Credit card not required",
+        "Customized updates",
+        "Digital badge for LinkedIn"
+      ]
+    },
+    "resources": [
+      {
+        "title": "Icon templates for Figma",
+        "description": "Perfectly structured templates to quickly design new icons in dozens of common sizes.",
+        "video": "https://www.youtube.com/embed/your-video-id-1"
+      },
+      {
+        "title": "Weekly icon analysis",
+        "description": "Weekly videos where we break down and recreate beautiful icons we find on the web.",
+        "video": "https://www.youtube.com/embed/your-video-id-2"
+      },
+      {
+        "title": "Icon designer community",
+        "description": "A private Discord server where you can get help and give feedback on others' work.",
+        "video": "https://www.youtube.com/embed/your-video-id-3"
+      }
+    ]
+  },
+  "premium": {
+    "tierTitle": "Premium Tier",
+    "price": "Contact sales",
+    "startButton": "Contact sales",
+    "heading": "Resources",
+    "title": "Premium Tier",
+    "description": "Design assets, icon analysis, and a community of icon designers where you can ask questions, get feedback, and accelerate your learning.",
+    "playButton": "Play",
+    "table": {
+      "feature": "Feature",
+      "included": "Included",
+      "features": [
+        "A 30-day trial period",
+        "5 active keys",
+        "150,000 requests per month",
+        "Unlimited networks",
+        "Advanced Copilot with generative AI",
+        "Usage metrics + visual debugging with replay",
+        "Publication of custom templates",
+        "Early access to beta features",
+        "Option to invite 2 collaborators per project",
+        "Optional integration with CLI or GitHub"
+      ]
+    },
+    "resources": [
+      {
+        "title": "Icon templates for Figma",
+        "description": "Perfectly structured templates to quickly design new icons in dozens of common sizes.",
+        "video": "https://www.youtube.com/embed/your-video-id-1"
+      },
+      {
+        "title": "Weekly icon analysis",
+        "description": "Weekly videos where we break down and recreate beautiful icons we find on the web.",
+        "video": "https://www.youtube.com/embed/your-video-id-2"
+      },
+      {
+        "title": "Icon designer community",
+        "description": "A private Discord server where you can get help and give feedback on others' work.",
+        "video": "https://www.youtube.com/embed/your-video-id-3"
+      }
+    ]
+  },
+  "business": {
+    "tierTitle": "Business Tier",
+    "price": "Contact sales",
+    "startButton": "Contact sales",
+    "heading": "Resources",
+    "title": "Business Tier",
+    "description": "Design assets, icon analysis, and a community of icon designers where you can ask questions, get feedback, and accelerate your learning.",
+    "playButton": "Play",
+    "table": {
+      "feature": "Feature",
+      "included": "Included",
+      "features": [
+        "+50 keys",
+        "Unlimited requests",
+        "Unlimited node and channel network",
+        "Private or edge Copilot",
+        "Technical and legal SLA",
+        "24/7 technical support",
+        "Team management panel (IAM, SSO)",
+        "Specialized technical consulting",
+        "Hybrid/on-prem implementation",
+        "Dedicated infrastructure (AWS, edge, or private cloud)",
+        "Option to sign NDA / data privacy",
+        "Private API for dashboards or external BI"
+      ]
+    },
+    "resources": [
+      {
+        "title": "Icon templates for Figma",
+        "description": "Perfectly structured templates to quickly design new icons in dozens of common sizes.",
+        "video": "https://www.youtube.com/embed/your-video-id-1"
+      },
+      {
+        "title": "Weekly icon analysis",
+        "description": "Weekly videos where we break down and recreate beautiful icons we find on the web.",
+        "video": "https://www.youtube.com/embed/your-video-id-2"
+      },
+      {
+        "title": "Icon designer community",
+        "description": "A private Discord server where you can get help and give feedback on others' work.",
+        "video": "https://www.youtube.com/embed/your-video-id-3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Om 4 Digital Asset",
+  "description": "Stärker din digitala framtid genom innovativa lösningar.",
+  "hero": {
+    "heading": "Innovativa morgondagens digitala landskap",
+    "subheading": "Vi brinner för att skapa banbrytande lösningar som förändrar hur företag verkar i den digitala världen."
+  },
+  "mission": {
+    "title": "Vårt uppdrag",
+    "content": "På 4 Digital Asset är vi engagerade i att överbrygga klyftan mellan teknik och affärsbehov. Vårt uppdrag är att tillhandahålla innovativa digitala lösningar som hjälper organisationer att blomstra i ett ständigt föränderligt tekniskt landskap."
+  },
+  "values": {
+    "title": "Kärnvärden",
+    "items": [
+      {
+        "title": "Innovation",
+        "description": "Vi utforskar ständigt nya tekniker och metoder för att ligga steget före."
+      },
+      {
+        "title": "Integritet",
+        "description": "Vi tror på transparenta och etiska affärsmetoder i alla våra affärer."
+      },
+      {
+        "title": "Excellens",
+        "description": "Vi strävar efter excellens i varje projekt och säkerställer leveranser av högsta kvalitet."
+      },
+      {
+        "title": "Samarbete",
+        "description": "Vi arbetar nära våra kunder och partners för att uppnå gemensam framgång."
+      }
+    ]
+  },
+  "team": {
+    "title": "Möt vårt team",
+    "description": "Vårt mångsidiga team av experter sammanför många års erfarenhet inom teknik, design och affärsstrategi."
+  }
+}

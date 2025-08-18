@@ -1,0 +1,78 @@
+{
+  "title": "Bygg och distribuera snabbare",
+  "subtitle": "Allt du behöver för att skapa underbara appar",
+  "description": "En omfattande plattform för att enkelt bygga och distribuera applikationer.",
+  "readMore": "Läs mer",
+  "video1": {
+    "title": "Introduktion till Freemium",
+    "description": "Lär dig hur du hanterar nätverkssystem.",
+    "video": "https://www.youtube.com/embed/your-video-id-1"
+  },
+  "video2": {
+    "title": "Översikt av kvantsimuleringar",
+    "description": "Utforska effektiva kvantkretssimuleringar.",
+    "video": "https://www.youtube.com/embed/your-video-id-2"
+  },
+  "video3": {
+    "title": "Premium OS-funktioner",
+    "description": "Upptäck prestandan och säkerheten i vårt lätta operativsystem.",
+    "video": "https://www.youtube.com/embed/your-video-id-3"
+  },
+  "cards": [
+    {
+      "title": "Freemium",
+      "subtitle": "Datadrivet nätverk",
+      "description": "En plattform för att hantera och analysera dina nätverkssystem.",
+      "slug": "freemium",
+      "cardBg": "bg-gradient-to-br from-indigo-700 via-purple-700 to-pink-500",
+      "titleColor": "text-[var(--primary)]",
+      "subtitleColor": "text-white",
+      "descriptionColor": "text-gray-200",
+      "buttonBg": "bg-white",
+      "buttonTextColor": "text-gray-900",
+      "buttonBorder": "ring-1 ring-gray-200"
+    },
+    {
+      "title": "Utvecklare",
+      "subtitle": "Kvantsimuleringar",
+      "description": "Simulera kvantkretsar effektivt med vår verktygsuppsättning.",
+      "slug": "developer",
+      "cardBg": "bg-gradient-to-br from-teal-700 via-blue-700 to-purple-500",
+      "titleColor": "text-indigo-100",
+      "subtitleColor": "text-white",
+      "descriptionColor": "text-gray-200",
+      "buttonBg": "bg-white",
+      "buttonTextColor": "text-gray-900",
+      "buttonBorder": "ring-1 ring-gray-200"
+    },
+    {
+      "title": "Premium",
+      "subtitle": "Operativsystem",
+      "description": "Ett lättviktigt operativsystem utformat för prestanda och säkerhet.",
+      "slug": "premium",
+      "cardBg": "bg-gradient-to-br from-purple-700 via-red-700 to-orange-500",
+      "titleColor": "text-indigo-100",
+      "subtitleColor": "text-white",
+      "descriptionColor": "text-gray-200",
+      "buttonBg": "bg-white",
+      "buttonTextColor": "text-gray-900",
+      "buttonBorder": "ring-1 ring-gray-200"
+    },
+    {
+      "title": "Företag",
+      "subtitle": "Materialtransport",
+      "description": "Lösningar för effektiv logistik och spårning av leveranskedjan.",
+      "slug": "business",
+      "cardBg": "bg-gradient-to-br from-blue-700 via-green-700 to-yellow-500",
+      "titleColor": "text-indigo-100",
+      "subtitleColor": "text-white",
+      "descriptionColor": "text-gray-200",
+      "buttonBg": "bg-white",
+      "buttonTextColor": "text-gray-900",
+      "buttonBorder": "ring-1 ring-gray-200"
+    }
+  ],
+  "ctaHeading": "Redo att dyka in?",
+  "ctaSubheading": "Starta din kostnadsfria provperiod idag.",
+  "ctaGetStarted": "Få din gratis licens nu!"
+}

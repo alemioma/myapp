@@ -1,0 +1,172 @@
+{
+  "freemium": {
+    "tierTitle": "Freemium nivå",
+    "price": "Gratis",
+    "startButton": "Börja nu!",
+    "heading": "Resurser",
+    "title": "Freemium nivå",
+    "description": "Designresurser, ikoneranalys och en community av ikondesigners där du kan ställa frågor, få feedback och snabba på ditt lärande.",
+    "playButton": "Spela",
+    "table": {
+      "feature": "Funktion",
+      "included": "Ingår",
+      "features": [
+        "En 14 dagars provperiod",
+        "1 licens per användare",
+        "10 000 förfrågningar under 14-dagarsperioden",
+        "Upp till 3 aktiva nätverk",
+        "Copilot i begränsat läge",
+        "Bibliotek med guidade exempel (Mallar för snabbstart)",
+        "Tillgång till exklusiv Discord-community",
+        "Kreditkort krävs inte",
+        "Grundläggande uppdateringar"
+      ]
+    },
+    "resources": [
+      {
+        "title": "Ikonmallar för Figma",
+        "description": "Perfekt strukturerade mallar för att snabbt designa nya ikoner i dussintals vanliga storlekar.",
+        "video": "https://www.youtube.com/embed/your-video-id-1"
+      },
+      {
+        "title": "Veckovis ikoneranalys",
+        "description": "Veckovisa videor där vi analyserar och återskapar vackra ikoner vi hittar på webben.",
+        "video": "https://www.youtube.com/embed/your-video-id-2"
+      },
+      {
+        "title": "Community för ikondesigners",
+        "description": "En privat Discord-server där du kan få hjälp och ge feedback på andras arbete.",
+        "video": "https://www.youtube.com/embed/your-video-id-3"
+      }
+    ]
+  },
+  "developer": {
+    "tierTitle": "Utvecklarnivå",
+    "price": "19 USD/månad",
+    "startButton": "Börja nu!",
+    "heading": "Resurser",
+    "title": "Utvecklarnivå",
+    "description": "Designresurser, ikoneranalys och en community av ikondesigners där du kan ställa frågor, få feedback och snabba på ditt lärande.",
+    "playButton": "Spela",
+    "table": {
+      "feature": "Funktion",
+      "included": "Ingår",
+      "features": [
+        "En 20 dagars provperiod",
+        "1 aktiv lisens",
+        "25 000 förfrågningar per månad",
+        "Upp till 10 aktiva nätverk",
+        "Copilot (utan generativ AI)",
+        "Community support + privat feedbackkanal",
+        "Tillgång till 5 anpassningsbara mallar",
+        "Exportera projekt i .tdp-format",
+        "Kreditkort krävs inte",
+        "Anpassade uppdateringar",
+        "Digitalt märke för LinkedIn"
+      ]
+    },
+    "resources": [
+      {
+        "title": "Ikonmallar för Figma",
+        "description": "Perfekt strukturerade mallar för att snabbt designa nya ikoner i dussintals vanliga storlekar.",
+        "video": "https://www.youtube.com/embed/your-video-id-1"
+      },
+      {
+        "title": "Veckovis ikoneranalys",
+        "description": "Veckovisa videor där vi analyserar och återskapar vackra ikoner vi hittar på webben.",
+        "video": "https://www.youtube.com/embed/your-video-id-2"
+      },
+      {
+        "title": "Community för ikondesigners",
+        "description": "En privat Discord-server där du kan få hjälp och ge feedback på andras arbete.",
+        "video": "https://www.youtube.com/embed/your-video-id-3"
+      }
+    ]
+  },
+  "premium": {
+    "tierTitle": "Premium nivå",
+    "price": "Kontakta sälj",
+    "startButton": "Kontakta sälj",
+    "heading": "Resurser",
+    "title": "Premium nivå",
+    "description": "Designresurser, ikoneranalys och en community av ikondesigners där du kan ställa frågor, få feedback och snabba på ditt lärande.",
+    "playButton": "Spela",
+    "table": {
+      "feature": "Funktion",
+      "included": "Ingår",
+      "features": [
+         "En 30 dagars provperiod",
+        "5 aktiva licenser",
+        "150 000 förfrågningar per månad",
+        "Obegränsade nätverk",
+        "Avancerad Copilot med generativ AI",
+        "Användningsstatistik + visuell felsökning med repriser",
+        "Publicering av egna mallar",
+        "Tidig tillgång till beta-funktioner",
+        "Möjlighet att bjuda in 2 medarbetare per projekt",
+        "Valfri integration med CLI eller GitHub"
+      ]
+    },
+    "resources": [
+      {
+        "title": "Ikonmallar för Figma",
+        "description": "Perfekt strukturerade mallar för att snabbt designa nya ikoner i dussintals vanliga storlekar.",
+        "video": "https://www.youtube.com/embed/your-video-id-1"
+      },
+      {
+        "title": "Veckovis ikoneranalys",
+        "description": "Veckovisa videor där vi analyserar och återskapar vackra ikoner vi hittar på webben.",
+        "video": "https://www.youtube.com/embed/your-video-id-2"
+      },
+      {
+        "title": "Community för ikondesigners",
+        "description": "En privat Discord-server där du kan få hjälp och ge feedback på andras arbete.",
+        "video": "https://www.youtube.com/embed/your-video-id-3"
+      }
+    ]
+  },
+  "business": {
+    "tierTitle": "Företagsnivå",
+    "price": "Kontakta sälj",
+    "startButton": "Kontakta sälj",
+    "heading": "Resurser",
+    "title": "Företagsnivå",
+    "description": "Designresurser, ikoneranalys och en community av ikondesigners där du kan ställa frågor, få feedback och snabba på ditt lärande.",
+    "playButton": "Spela",
+    "table": {
+      "feature": "Funktion",
+      "included": "Ingår",
+      "features": [
+        "+50 licenser",
+        "Obegränsade förfrågningar",
+        "Obegränsat nätverk av noder och kanaler",
+        "Privat eller edge Copilot",
+        "Teknisk och juridisk SLA",
+        "24/7 teknisk support",
+        "Panel för teamhantering (IAM, SSO)",
+        "Specialiserad teknisk rådgivning",
+        "Hybrid/on-prem implementering",
+        "Dedikerad infrastruktur (AWS, edge, eller privat moln)",
+        "Möjlighet att teckna NDA / datasekretess",
+        "Privat API för instrumentpaneler eller extern BI"
+      ]
+    },
+    "resources": [
+      {
+        "title": "Ikonmallar för Figma",
+        "description": "Perfekt strukturerade mallar för att snabbt designa nya ikoner i dussintals vanliga storlekar.",
+        "video": "https://www.youtube.com/embed/your-video-id-1"
+      },
+      {
+        "title": "Veckovis ikoneranalys",
+        "description": "Veckovisa videor där vi analyserar och återskapar vackra ikoner vi hittar på webben.",
+        "video": "https://www.youtube.com/embed/your-video-id-2"
+      },
+      {
+        "title": "Community för ikondesigners",
+        "description": "En privat Discord-server där du kan få hjälp och ge feedback på andras arbete.",
+        "video": "https://www.youtube.com/embed/your-video-id-3"
+      }
+    ]
+  }
+}

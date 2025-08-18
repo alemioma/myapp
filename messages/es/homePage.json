@@ -1,0 +1,78 @@
+{
+  "title": "Crea y despliega más rápido",
+  "subtitle": "Todo lo que necesitas para crear aplicaciones increíbles",
+  "description": "Una plataforma integral para construir y desplegar aplicaciones con facilidad.",
+  "readMore": "Leer más",
+  "video1": {
+    "title": "Introducción a Freemium",
+    "description": "Aprende a gestionar sistemas en red.",
+    "video": "https://www.youtube.com/embed/your-video-id-1"
+  },
+  "video2": {
+    "title": "Visión general de las simulaciones cuánticas",
+    "description": "Explora simulaciones de circuitos cuánticos de forma eficiente.",
+    "video": "https://www.youtube.com/embed/your-video-id-2"
+  },
+  "video3": {
+    "title": "Características de Premium OS",
+    "description": "Descubre el rendimiento y la seguridad de nuestro sistema operativo ligero.",
+    "video": "https://www.youtube.com/embed/your-video-id-3"
+  },
+  "cards": [
+    {
+      "title": "Freemium",
+      "subtitle": "Red basada en datos",
+      "description": "Una plataforma para gestionar y analizar tus sistemas en red.",
+      "slug": "freemium",
+      "cardBg": "bg-gradient-to-br from-indigo-700 via-purple-700 to-pink-500",
+      "titleColor": "text-[var(--primary)]",
+      "subtitleColor": "text-white",
+      "descriptionColor": "text-gray-200",
+      "buttonBg": "bg-white",
+      "buttonTextColor": "text-gray-900",
+      "buttonBorder": "ring-1 ring-gray-200"
+    },
+    {
+      "title": "Desarrollador",
+      "subtitle": "Simulaciones cuánticas",
+      "description": "Simula circuitos cuánticos de forma eficiente con nuestro conjunto de herramientas.",
+      "slug": "developer",
+      "cardBg": "bg-gradient-to-br from-teal-700 via-blue-700 to-purple-500",
+      "titleColor": "text-indigo-100",
+      "subtitleColor": "text-white",
+      "descriptionColor": "text-gray-200",
+      "buttonBg": "bg-white",
+      "buttonTextColor": "text-gray-900",
+      "buttonBorder": "ring-1 ring-gray-200"
+    },
+    {
+      "title": "Premium",
+      "subtitle": "Sistema Operativo",
+      "description": "Un sistema operativo ligero diseñado para rendimiento y seguridad.",
+      "slug": "premium",
+      "cardBg": "bg-gradient-to-br from-purple-700 via-red-700 to-orange-500",
+      "titleColor": "text-indigo-100",
+      "subtitleColor": "text-white",
+      "descriptionColor": "text-gray-200",
+      "buttonBg": "bg-white",
+      "buttonTextColor": "text-gray-900",
+      "buttonBorder": "ring-1 ring-gray-200"
+    },
+    {
+      "title": "Negocios",
+      "subtitle": "Transporte de materiales",
+      "description": "Soluciones para una logística eficiente y el seguimiento de la cadena de suministro.",
+      "slug": "business",
+      "cardBg": "bg-gradient-to-br from-blue-700 via-green-700 to-yellow-500",
+      "titleColor": "text-indigo-100",
+      "subtitleColor": "text-white",
+      "descriptionColor": "text-gray-200",
+      "buttonBg": "bg-white",
+      "buttonTextColor": "text-gray-900",
+      "buttonBorder": "ring-1 ring-gray-200"
+    }
+  ],
+  "ctaHeading": "¿Listo para empezar?",
+  "ctaSubheading": "Inicia tu prueba gratuita hoy mismo.",
+  "ctaGetStarted": "¡Obtén tu licencia gratuita ahora!"
+}

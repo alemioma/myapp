@@ -1,0 +1,177 @@
+{
+ 
+    "freemium": {
+      "tierTitle": "Nivel Freemium",
+      "price": "Gratis",
+      "startButton": "¡Comienza ahora!",
+      "heading": "Recursos",
+      "title": "Nivel Freemium",
+      "description": "Activos de diseño, análisis de íconos y una comunidad de diseñadores de íconos donde puedes hacer preguntas, recibir retroalimentación y acelerar tu aprendizaje.",
+      "playButton": "Reproducir",
+      "table": {
+        "feature": "Característica",
+        "included": "Incluido",
+        "features": [
+          "Un periodo de prueba de 14 días",
+          "1 licencia por usuario",
+          "10,000 requests durante los 14 días",
+          "Hasta 3 redes activas",
+          "Compiloto modo limitado",
+          "Librería de ejemplos guiados (Plantillas para comienzo rápido)",
+          "Acceso a comunidad exclusiva en Discord",
+          "Tarjeta de crédito no requerida", 
+          "Actualizaciones básicas"
+        ]
+      },
+      "resources": [
+        {
+          "title": "Plantillas de íconos para Figma",
+          "description": "Plantillas perfectamente estructuradas para diseñar rápidamente nuevos íconos en docenas de tamaños comunes.",
+          "video": "https://www.youtube.com/embed/your-video-id-1"
+        },
+        {
+          "title": "Análisis semanales de íconos",
+          "description": "Videos semanales donde desglosamos y recreamos hermosos íconos que encontramos en la web.",
+          "video": "https://www.youtube.com/embed/your-video-id-2"
+        },
+        {
+          "title": "Comunidad de diseñadores de íconos",
+          "description": "Un servidor privado de Discord donde puedes obtener ayuda y dar retroalimentación sobre el trabajo de otros.",
+          "video": "https://www.youtube.com/embed/your-video-id-3"
+        }
+      ]
+    },
+
+    "developer": {
+      "tierTitle": "Nivel Desarrollador",
+      "price": "$19/mes",
+      "startButton": "¡Comienza ahora!",
+      "heading": "Recursos",
+      "title": "Nivel Desarrollador",
+      "description": "Activos de diseño, análisis de íconos y una comunidad de diseñadores de íconos donde puedes hacer preguntas, recibir retroalimentación y acelerar tu aprendizaje.",
+      "playButton": "Reproducir",
+      "table": {
+        "feature": "Característica",
+        "included": "Incluido",
+        "features": [
+          "Un periodo de prueba de 20 días",
+          "1 licencia activa por desarrollador",
+          "25,000 requests mensuales",
+          "Hasta 10 redes activas",
+          "Copiloto (sin IA generativa)",
+          "Soporte por comunidad + canal privado de feedback",
+          "Acceso a 5 plantillas personalizables",
+          "Exportación de proyectos en formato .tdp",
+          "Tarjeta de crédito no requerida",
+          "Actualizaciones personalizadas",
+          "Badge digital para LinkedIn"
+
+        ]
+      },
+      "resources": [
+        {
+          "title": "Plantillas de íconos para Figma",
+          "description": "Plantillas perfectamente estructuradas para diseñar rápidamente nuevos íconos en docenas de tamaños comunes.",
+          "video": "https://www.youtube.com/embed/your-video-id-1"
+        },
+        {
+          "title": "Análisis semanales de íconos",
+          "description": "Videos semanales donde desglosamos y recreamos hermosos íconos que encontramos en la web.",
+          "video": "https://www.youtube.com/embed/your-video-id-2"
+        },
+        {
+          "title": "Comunidad de diseñadores de íconos",
+          "description": "Un servidor privado de Discord donde puedes obtener ayuda y dar retroalimentación sobre el trabajo de otros.",
+          "video": "https://www.youtube.com/embed/your-video-id-3"
+        }
+      ]
+    },
+
+    "premium": {
+      "tierTitle": "Nivel Premium",
+      "price": "Contacta ventas",
+      "startButton": "Contacta ventas",
+      "heading": "Recursos",
+      "title": "Nivel Premium",
+      "description": "Activos de diseño, análisis de íconos y una comunidad de diseñadores de íconos donde puedes hacer preguntas, recibir retroalimentación y acelerar tu aprendizaje.",
+      "playButton": "Reproducir",
+      "table": {
+        "feature": "Característica",
+        "included": "Incluido",
+        "features": [
+          "Un periodo de prueba de 30 días",
+          "5 licencias activas",
+          "150,000 requests mensuales",
+          "Redes ilimitadas",
+          "Copilot avanzado con IA generativa",
+          "Métricas de uso + debugging visual con replay",
+          "Publicación de plantillas propias",
+          "Acceso anticipado a features en versión beta,",
+          "Opción de invitar 2 colaboradores por proyecto",
+          "Integración opcional con CLI o GitHub"
+        ]
+      },
+      "resources": [
+        {
+          "title": "Plantillas de íconos para Figma",
+          "description": "Plantillas perfectamente estructuradas para diseñar rápidamente nuevos íconos en docenas de tamaños comunes.",
+          "video": "https://www.youtube.com/embed/your-video-id-1"
+        },
+        {
+          "title": "Análisis semanales de íconos",
+          "description": "Videos semanales donde desglosamos y recreamos hermosos íconos que encontramos en la web.",
+          "video": "https://www.youtube.com/embed/your-video-id-2"
+        },
+        {
+          "title": "Comunidad de diseñadores de íconos",
+          "description": "Un servidor privado de Discord donde puedes obtener ayuda y dar retroalimentación sobre el trabajo de otros.",
+          "video": "https://www.youtube.com/embed/your-video-id-3"
+        }
+      ]
+    },
+
+    "business": {
+      "tierTitle": "Nivel Empresarial",
+      "price": "Contacta ventas",
+      "startButton": "Contacta ventas",
+      "heading": "Recursos",
+      "title": "Nivel Empresarial",
+      "description": "Activos de diseño, análisis de íconos y una comunidad de diseñadores de íconos donde puedes hacer preguntas, recibir retroalimentación y acelerar tu aprendizaje.",
+      "playButton": "Reproducir",
+      "table": {
+        "feature": "Característica",
+        "included": "Incluido",
+        "features": [
+          "+50 licencias",
+          "Requests ilimitados",
+          "Red ilimitada de nodos y canales",
+          "Copilot privado o en edge",
+          "SLA técnico y legal",
+          "Soporte técnico 24/7",
+          "Panel de gestión por equipos (IAM, SSO)",
+          "Consultoría técnica especializada",
+          "Implementación híbrida/on-prem",
+          "Infraestructura dedicada (AWS, edge, o nube privada)",
+          "Opcion de firma NDA / privacidad de datos",
+          "API privada para dashboards o BI externo"
+        ]
+      },
+      "resources": [
+        {
+          "title": "Plantillas de íconos para Figma",
+          "description": "Plantillas perfectamente estructuradas para diseñar rápidamente nuevos íconos en docenas de tamaños comunes.",
+          "video": "https://www.youtube.com/embed/your-video-id-1"
+        },
+        {
+          "title": "Análisis semanales de íconos",
+          "description": "Videos semanales donde desglosamos y recreamos hermosos íconos que encontramos en la web.",
+          "video": "https://www.youtube.com/embed/your-video-id-2"
+        },
+        {
+          "title": "Comunidad de diseñadores de íconos",
+          "description": "Un servidor privado de Discord donde puedes obtener ayuda y dar retroalimentación sobre el trabajo de otros.",
+          "video": "https://www.youtube.com/embed/your-video-id-3"
+        }
+      ]
+    }
+  }

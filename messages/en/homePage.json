@@ -1,0 +1,77 @@
+{
+  "title": "Build and deploy faster",
+  "subtitle": "Everything you need to create wonderful apps",
+  "readMore": "Read more",
+  "video1": {
+    "title": "Introduction to Freemium",
+    "description": "Learn how to manage networked systems.",
+    "video": "https://www.youtube.com/embed/your-video-id-1"
+  },
+  "video2": {
+    "title": "Quantum Simulations Overview",
+    "description": "Explore efficient quantum circuit simulations.",
+    "video": "https://www.youtube.com/embed/your-video-id-2"
+  },
+  "video3": {
+    "title": "Premium OS Features",
+    "description": "Discover the performance and security of our lightweight OS.",
+    "video": "https://www.youtube.com/embed/your-video-id-3"
+  },
+  "cards": [
+    {
+      "title": "Freemium",
+      "subtitle": "Data-driven network",
+      "description": "A platform to manage and analyze your networked systems.",
+      "slug": "freemium",
+      "cardBg": "bg-gradient-to-br from-indigo-700 via-purple-700 to-pink-500",
+      "titleColor": "text-[var(--primary)]",
+      "subtitleColor": "text-white",
+      "descriptionColor": "text-gray-200",
+      "buttonBg": "bg-white",
+      "buttonTextColor": "text-gray-900",
+      "buttonBorder": "ring-1 ring-gray-200"
+    },
+    {
+      "title": "Developer",
+      "subtitle": "Quantum simulations",
+      "description": "Simulate quantum circuits efficiently with our toolset.",
+      "slug": "developer",
+      "cardBg": "bg-gradient-to-br from-teal-700 via-blue-700 to-purple-500",
+      "titleColor": "text-indigo-100",
+      "subtitleColor": "text-white",
+      "descriptionColor": "text-gray-200",
+      "buttonBg": "bg-white",
+      "buttonTextColor": "text-gray-900",
+      "buttonBorder": "ring-1 ring-gray-200"
+    },
+    {
+      "title": "Premium",
+      "subtitle": "Operating System",
+      "description": "A lightweight OS designed for performance and security.",
+      "slug": "premium",
+      "cardBg": "bg-gradient-to-br from-purple-700 via-red-700 to-orange-500",
+      "titleColor": "text-indigo-100",
+      "subtitleColor": "text-white",
+      "descriptionColor": "text-gray-200",
+      "buttonBg": "bg-white",
+      "buttonTextColor": "text-gray-900",
+      "buttonBorder": "ring-1 ring-gray-200"
+    },
+    {
+      "title": "Business",
+      "subtitle": "Material Transport",
+      "description": "Solutions for efficient logistics and supply chain tracking.",
+      "slug": "business",
+      "cardBg": "bg-gradient-to-br from-blue-700 via-green-700 to-yellow-500",
+      "titleColor": "text-indigo-100",
+      "subtitleColor": "text-white",
+      "descriptionColor": "text-gray-200",
+      "buttonBg": "bg-white",
+      "buttonTextColor": "text-gray-900",
+      "buttonBorder": "ring-1 ring-gray-200"
+    }
+  ],
+  "ctaHeading": "Ready to dive in?",
+  "ctaSubheading": "Start your free trial today.",
+  "ctaGetStarted": "Get your free license now!"
+}

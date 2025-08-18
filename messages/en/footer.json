@@ -1,0 +1,34 @@
+
+{
+  "description": "4 Digital Asset - Empowering your digital future.",
+  "solutionsTitle": "Solutions",
+  "solutions": {
+    "TDPnet": "TDPnet",
+    "Braket": "Braket",
+    "Orca OS": "Orca OS",
+    "Database": "Database",
+    "Mattrans": "Mattrans"
+  },
+  "supportTitle": "Support",
+  "support": {
+    "Pricing": "Pricing",
+    "Documentation": "Documentation",
+    "Guides": "Guides",
+    "API Status": "API Status"
+  },
+  "companyTitle": "Company",
+  "company": {
+    "About": "About",
+    "Blog": "Blog",
+    "Team": "Team",
+    "Contact": "Contact",
+    "Partners": "Partners"
+  },
+  "legalTitle": "Legal",
+  "legal": {
+    "Claim": "Claim",
+    "Privacy": "Privacy Policy",
+    "Terms": "Terms of Service"
+  },
+  "copyright": "© {year} 4 Digital Asset. All rights reserved."
+}

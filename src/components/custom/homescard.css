@@ -1,0 +1,8 @@
+.description-text.collapsed {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    /* Cambia el número de líneas aquí */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

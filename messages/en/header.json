@@ -1,0 +1,15 @@
+{
+  "navLinks": {
+    "developer": "Developer",
+    "business": "Business",
+    "industry": "Industry",
+    "academy": "Academy",
+    "contact": "Contact"
+  },
+  "languageLabel": "Language",
+  "languages": {
+    "en": "English",
+    "es": "Spanish",
+    "sv": "Swedish"
+  }
+}

@@ -1,0 +1,34 @@
+
+{
+  "description": "4 Digital Asset - Stärker din digitala framtid.",
+  "solutionsTitle": "Lösningar",
+  "solutions": {
+    "TDPnet": "TDPnet",
+    "Braket": "Braket",
+    "Orca OS": "Orca OS",
+    "Database": "Databas",
+    "Mattrans": "Mattrans"
+  },
+  "supportTitle": "Support",
+  "support": {
+    "Pricing": "Prissättning",
+    "Documentation": "Dokumentation",
+    "Guides": "Guider",
+    "API Status": "API-status"
+  },
+  "companyTitle": "Företag",
+  "company": {
+    "About": "Om oss",
+    "Blog": "Blogg",
+    "Team": "Team",
+    "Contact": "Kontakt",
+    "Partners": "Partners"
+  },
+  "legalTitle": "Juridiskt",
+  "legal": {
+    "Claim": "Krav",
+    "Privacy": "Integritetspolicy",
+    "Terms": "Användarvillkor"
+  },
+  "copyright": "© {year} 4 Digital Asset. Alla rättigheter förbehållna."
+}

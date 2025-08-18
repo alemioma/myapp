@@ -1,0 +1,37 @@
+{
+  "title": "About 4 Digital Asset",
+  "description": "Empowering your digital future through innovative solutions.",
+  "hero": {
+    "heading": "Innovating Tomorrow's Digital Landscape",
+    "subheading": "We're passionate about creating cutting-edge solutions that transform how businesses operate in the digital world."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "content": "At 4 Digital Asset, we're committed to bridging the gap between technology and business needs. Our mission is to provide innovative digital solutions that help organizations thrive in an ever-evolving technological landscape."
+  },
+  "values": {
+    "title": "Core Values",
+    "items": [
+      {
+        "title": "Innovation",
+        "description": "We constantly explore new technologies and methodologies to stay ahead of the curve."
+      },
+      {
+        "title": "Integrity",
+        "description": "We believe in transparent and ethical business practices in all our dealings."
+      },
+      {
+        "title": "Excellence",
+        "description": "We strive for excellence in every project, ensuring the highest quality deliverables."
+      },
+      {
+        "title": "Collaboration",
+        "description": "We work closely with our clients and partners to achieve shared success."
+      }
+    ]
+  },
+  "team": {
+    "title": "Meet Our Team",
+    "description": "Our diverse team of experts brings together years of experience in technology, design, and business strategy."
+  }
+}

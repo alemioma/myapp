@@ -1,0 +1,15 @@
+{
+  "navLinks": {
+    "developer": "Utvecklare",
+    "business": "Företag",
+    "industry": "Industri",
+    "academy": "Akademi",
+    "contact": "Kontakt"
+  },
+  "languageLabel": "Språk",
+  "languages": {
+    "en": "Engelska",
+    "es": "Spanska",
+    "sv": "Svenska"
+  }
+}
