@@ -5,20 +5,10 @@ import * as React from 'react';
 import { LayoutShell } from '@/components/LayoutShell';
 import { ThemeProvider } from '@/components/theme-provider';
 import { clsx } from 'clsx';
-import { Geist, Geist_Mono } from 'next/font/google';
 import { readFile, readdir } from 'fs/promises';
 import path from 'path';
 import '../globals.css'; // Added import for global styles
 
-const geistSans = Geist({
-  variable: '--font-geist-sans',
-  subsets: ['latin'],
-});
-
-const geistMono = Geist_Mono({
-  variable: '--font-geist-mono',
-  subsets: ['latin'],
-});
 
 export async function generateStaticParams() {
   return [{ locale: 'en' }, { locale: 'es' }, { locale: 'sv' }];
@@ -114,21 +104,18 @@ export default async function LocaleLayout({
     closeLabel: "Close banner",
   };
 
-  return (
-    <html lang={locale} suppressHydrationWarning>
-      <body
-        className={clsx(
-          geistSans.variable,
-          geistMono.variable,
-          'transition-colors duration-300 bg-[var(--background)] text-[var(--foreground)]'
-        )}
-      >
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
-          <NextIntlClientProvider locale={locale} messages={messages}>
-            <LayoutShell locale={locale}>{children}</LayoutShell>
-          </NextIntlClientProvider>
-        </ThemeProvider>
-      </body>
-    </html>
-  );
-}
+return (
+  <html lang={locale} suppressHydrationWarning>
+    <body
+      className={clsx(
+        'transition-colors duration-300 bg-[var(--background)] text-[var(--foreground)]'
+      )}
+    >
+      <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+        <NextIntlClientProvider locale={locale} messages={messages}>
+          <LayoutShell locale={locale}>{children}</LayoutShell>
+        </NextIntlClientProvider>
+      </ThemeProvider>
+    </body>
+  </html>
+);}
