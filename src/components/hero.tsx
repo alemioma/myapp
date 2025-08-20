@@ -1,14 +1,18 @@
-
 "use client";
 
-import { useTranslations, useLocale } from "next-intl";
+import { useTranslations } from "next-intl";
 import { Homescard } from "./homescard";
 import { Container } from "./container";
 import { Link } from "@/i18n/navigation";
+import React from 'react';
 
-export function Hero() {
+// Interfaz para las propiedades del componente
+interface HeroProps {
+  locale: string;
+}
+
+export function Hero({ locale }: HeroProps) {
   const t = useTranslations("homePage");
-  const locale = useLocale();
 
   const cards = t.raw("cards") as Array<{
     title: string;
@@ -126,3 +130,5 @@ export function Hero() {
     </div>
   );
 }
+
+export default Hero;
