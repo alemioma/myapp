@@ -1,4 +1,4 @@
-import { Hero } from "../../components/hero";
+import { Hero } from "@/components/hero";
 import { FC } from 'react';
 
 // Se tipifican los parámetros como una promesa
@@ -8,7 +8,8 @@ interface HomePageProps {
   }>;
 }
 
-const LocaleHomePage: FC<HomePageProps> = async ({ params }) => {
+// El componente debe ser 'async' para usar 'await'
+const HomePage: FC<HomePageProps> = async ({ params }) => {
   const { locale } = await params;
   
   return (
@@ -18,4 +19,4 @@ const LocaleHomePage: FC<HomePageProps> = async ({ params }) => {
   );
 };
 
-export default LocaleHomePage;
+export default HomePage;
