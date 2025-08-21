@@ -72,7 +72,5 @@
       "buttonBorder": "ring-1 ring-gray-200"
     }
   ],
-  "ctaHeading": "¿Listo para empezar?",
-  "ctaSubheading": "Inicia tu prueba gratuita hoy mismo.",
-  "ctaGetStarted": "¡Obtén tu licencia gratuita ahora!"
+  "signupButton": "Regístrate gratis"
 }

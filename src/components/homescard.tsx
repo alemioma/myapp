@@ -1,8 +1,8 @@
-
 "use client";
 
 import { useState } from "react";
 import { Link } from "@/i18n/navigation";
+import React from 'react';
 
 interface HomescardProps {
   title: string;
@@ -10,13 +10,13 @@ interface HomescardProps {
   description: string;
   buttonLabel: string;
   buttonHref: string;
-  cardBg?: string;
-  titleColor?: string;
-  subtitleColor?: string;
-  descriptionColor?: string;
-  buttonBg?: string;
-  buttonTextColor?: string;
-  buttonBorder?: string;
+  cardBg: string;
+  titleColor: string;
+  subtitleColor: string;
+  descriptionColor: string;
+  buttonBg: string;
+  buttonTextColor: string;
+  buttonBorder: string;
   clampLines?: number;
   expandable?: boolean;
 }
@@ -27,13 +27,13 @@ export function Homescard({
   description,
   buttonLabel,
   buttonHref,
-  cardBg = "bg-gradient-to-br from-indigo-700 via-purple-700 to-pink-500",
-  titleColor = "text-indigo-100",
-  subtitleColor = "text-white",
-  descriptionColor = "text-gray-200",
-  buttonBg = "bg-white",
-  buttonTextColor = "text-gray-900",
-  buttonBorder = "ring-1 ring-gray-200",
+  cardBg,
+  titleColor,
+  subtitleColor,
+  descriptionColor,
+  buttonBg,
+  buttonTextColor,
+  buttonBorder,
   clampLines = 4,
   expandable = false,
 }: HomescardProps) {
@@ -41,15 +41,15 @@ export function Homescard({
 
   return (
     <div
-      className={`relative rounded-[var(--radius-md)] overflow-hidden ${cardBg} p-4 flex flex-col justify-between h-full border-[var(--border)]`}
+      className={`relative overflow-hidden rounded-2xl p-6 text-white ${cardBg} flex flex-col justify-between h-full border-[var(--border)]`}
     >
       <div>
-        <h2 className={`text-base font-semibold ${titleColor}`}>{title}</h2>
-        <p className={`mt-1 text-sm font-medium ${subtitleColor}`}>{subtitle}</p>
+        <h3 className={`text-xl font-semibold mb-2 ${titleColor}`}>{title}</h3>
+        <h4 className={`text-lg font-medium mb-3 opacity-90 ${subtitleColor}`}>{subtitle}</h4>
         <p
-          className={`mt-1 text-sm ${descriptionColor} ${
+          className={`mt-1 text-sm ${
             expandable && !expanded ? `line-clamp-${clampLines}` : ""
-          }`}
+          } ${descriptionColor}`}
         >
           {description}
         </p>
@@ -63,10 +63,10 @@ export function Homescard({
           </button>
         )}
       </div>
-      <div className="mt-4 flex justify-center">
+      <div className="mt-4">
         <Link
           href={buttonHref}
-          className={`rounded-full px-4 py-1.5 text-sm font-medium transition ${buttonBg} ${buttonTextColor} ${buttonBorder} hover:bg-opacity-90`}
+          className={`inline-flex items-center rounded-[var(--radius-sm)] px-4 py-1 text-sm font-semibold ${buttonBg} ${buttonTextColor} ring-1 ${buttonBorder} transition-colors`}
         >
           {buttonLabel}
         </Link>

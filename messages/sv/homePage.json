@@ -72,7 +72,6 @@
       "buttonBorder": "ring-1 ring-gray-200"
     }
   ],
-  "ctaHeading": "Redo att dyka in?",
-  "ctaSubheading": "Starta din kostnadsfria provperiod idag.",
-  "ctaGetStarted": "Få din gratis licens nu!"
+"signupButton": "Registrera dig gratis"
+
 }

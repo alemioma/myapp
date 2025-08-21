@@ -71,7 +71,5 @@
       "buttonBorder": "ring-1 ring-gray-200"
     }
   ],
-  "ctaHeading": "Ready to dive in?",
-  "ctaSubheading": "Start your free trial today.",
-  "ctaGetStarted": "Get your free license now!"
+ "signupButton": "Signup for free"
 }

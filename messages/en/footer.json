@@ -27,8 +27,8 @@
   "legalTitle": "Legal",
   "legal": {
     "Claim": "Claim",
-    "Privacy": "Privacy Policy",
-    "Terms": "Terms of Service"
+    "Privacy": "Privacy",
+    "Terms": "Terms"
   },
   "copyright": "© {year} 4 Digital Asset. All rights reserved."
 }
